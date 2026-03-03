@@ -1,0 +1,18 @@
+# 核心数据科学库（用于数据处理和 KNN）
+numpy
+matplotlib
+pandas
+scikit-learn
+
+# Jupyter 环境
+jupyter
+notebook
+ipykernel
+
+# 数据可视化增强库
+seaborn
+
+# 深度学习框架（满足 PyTorch>=2.4.1，CUDA>=11.8）
+# 这里默认指向 CUDA 12.1 版本，请根据实际 CUDA 版本调整
+torch>=2.4.1+cu121
+torchvision>=0.15.2+cu121
