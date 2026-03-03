@@ -4,13 +4,30 @@ Machine Learning文件夹：
 --
 
 每个案例基本上都由四部分组成：
+
 案例书.docx
+
 程序.ipynb
+
 requirement.txt
+
 data
 
-其中docx为案例书，requirement.txt为运行项目需要安装的环境，data为数据集文件夹
-由于传输限制，超过100个文件或大于25MB的文件无法上传，大多数案例缺少数据集和必要的训练权重文件，需要使用网盘进行下载
+其中docx为案例书，requirement.txt为运行项目需要安装的环境，data为数据集文件夹。由于传输限制，超过100个文件或大于25MB的文件无法上传，大多数案例缺少数据集和必要的训练权重文件，需要使用网盘进行下载
 
 步骤：
-1.下载案例压缩包后，解压    2.使用编译器如VSCode打开文件夹，打开案例根目录，如xx/xx/c1-yuanweihua_erfenlei    3.若缺少data等文件，前往网盘下载，每个项目有readme.md，有具体的项目目录结构，根据需要下载缺失的文件，并按照说明放在指定的文件目录下    4.安装环境：    在编译器中新建终端或打开电脑cmd    创建虚拟环境，如conda create -n c1 python=3.10    进入虚拟环境：conda activate c1    安装requirement.txt中列出的包：pip install -r requirements.txt    5.在编译器中选择创建好的虚拟环境后，便可以选择单元格运行了
+1.下载案例压缩包后，解压
+
+2.使用编译器如VSCode打开文件夹，打开案例根目录，如xx/xx/c1-yuanweihua_erfenlei
+
+3.若缺少data等文件，前往网盘下载，每个项目有readme.md，有具体的项目目录结构，根据需要下载缺失的文件，并按照说明放在指定的文件目录下
+
+4.安装环境：在编译器中新建终端或打开电脑cmd
+
+创建虚拟环境，如conda create -n c1 python=3.10
+
+进入虚拟环境：conda activate c1
+
+安装requirement.txt中列出的包：pip install -r requirements.txt
+
+5.在编译器中选择创建好的虚拟环境后，便可以选择单元格运行了
