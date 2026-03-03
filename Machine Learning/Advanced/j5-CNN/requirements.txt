@@ -1,0 +1,12 @@
+# 深度学习框架
+torch>=1.13.0
+torchvision>=0.14.0
+
+# 数据处理与可视化
+numpy>=1.21.0
+matplotlib>=3.5.0
+scikit-learn>=1.0.0
+
+# 进度条与工具（Dataset下载可能需要）
+tqdm
+requests
