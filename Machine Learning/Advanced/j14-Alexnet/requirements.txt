@@ -1,8 +1,0 @@
-torch
-torchvision
-torchaudio
-matplotlib
-tqdm
-requests
-numpy
-ipykernel
