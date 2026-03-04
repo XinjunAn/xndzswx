@@ -1,0 +1,15 @@
+# === Jupyter 基础 ===
+jupyter
+notebook
+ipykernel
+
+# === 核心计算与数据 ===
+numpy>=1.23.0
+pandas>=1.5.0
+
+# === 绘图与可视化 ===
+matplotlib>=3.5.0
+seaborn>=0.12.0  # 用于绘制好看的散点图和混淆矩阵
+
+# === 机器学习 ===
+scikit-learn>=1.2.0  # 包含 KMeans, PCA, fetch_openml
