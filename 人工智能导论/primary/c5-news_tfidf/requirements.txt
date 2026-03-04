@@ -1,0 +1,16 @@
+# === Jupyter 核心环境 ===
+jupyter
+notebook
+ipykernel
+
+# === 数据处理基础库 ===
+numpy>=1.23.0
+pandas>=1.5.0
+
+# === 绘图与可视化 (本实验使用了 Seaborn 画热力图) ===
+matplotlib>=3.5.0
+seaborn>=0.12.0
+
+# === 机器学习核心库 ===
+# 用于 TF-IDF 向量化、逻辑回归模型以及数据自动下载
+scikit-learn>=1.2.0
