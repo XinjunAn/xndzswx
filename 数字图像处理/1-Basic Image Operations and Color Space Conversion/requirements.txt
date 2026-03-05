@@ -1,0 +1,11 @@
+# 计算机视觉与图像处理核心库
+opencv-python
+
+# 矩阵与数学计算库
+numpy
+
+# 绘图与可视化库
+matplotlib
+
+# Jupyter Notebook 运行环境 (如果尚未安装)
+jupyter
