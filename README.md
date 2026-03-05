@@ -4,8 +4,8 @@
 
 ### 📂 仓库概览
 
-- **[primary](primary/) 初级案例 (20个)**：以 `c` 开头，涵盖经典算法与基础神经网络。
-- **[advanced](advanced/) 进阶案例 (30个)**：以 `j` 开头，聚焦工业、医疗等领域的复杂应用及深度学习前沿模型。
+- **[primary](人工智能导论/primary/) 初级案例 (20个)**：以 `c` 开头，涵盖经典算法与基础神经网络。
+- **[advanced](人工智能导论/advanced/) 进阶案例 (30个)**：以 `j` 开头，聚焦工业、医疗等领域的复杂应用及深度学习前沿模型。
 
 > [!IMPORTANT]
 > **资源获取说明**：若单个案例缺少数据集、权重文件、 README 中的下载链接失效，请前往 **[人工智能导论网盘](https://pan.baidu.com/s/1nCdmYK8fgUEvc0H_tkXF5g?pwd=x8cc 提取码: x8cc)** 下载，并按照网盘中的目录结构保存在本地路径中。若本地目录与说明不一致，以网盘内的目录结构及文件为准。
@@ -43,7 +43,7 @@
 
 ## 📚 项目目录 (Project Index)
 
-- **机器学期 (Machine Learning)**
+- **机器学习 (Machine Learning)**
   - **监督学习 (Supervised Learning)**
     - **二分类**
       - 初级：[c1. 鸢尾花品种二分类（逻辑回归）](primary/c1-yuanweihua_erfenlei)
