@@ -127,4 +127,43 @@
 
 ---
 
-# 🤖 数字图像处理
+# 🎨 数字图像处理 (Digital Image Processing)
+
+本板块包含 **20个** 经典的数字图像处理案例，涵盖从基础操作、空域/频域增强到形态学、分割与识别的完整内容。
+
+> [!IMPORTANT]
+> **仓库说明**：本仓库数据集很小，每个案例已经包含全部的数据集等文件。若requirements.txt发生版本冲突，删除掉后面的版本号重新安装或使用pip分别安装即可
+
+- **一、数字图像基础**
+  - [实验一：图像基本操作与颜色空间转换](数字图像处理/1-Basic%20Image%20Operations%20and%20Color%20Space%20Conversion)
+  - [实验十一：图像空间分辨率与灰度分辨率分析](数字图像处理/11-digital_image_resolution_experiment)
+- **二、空域图像增强**
+  - [实验二：图像灰度变换与直方图均衡化](数字图像处理/2-Image%20grayscale%20transformation%20and%20histogram%20equalization)
+  - [实验三：空间域图像滤波 (平滑与锐化)](数字图像处理/3-Experiment_3_Spatial_Filtering)
+  - [实验十二：高级灰度变换与直方图规定化](数字图像处理/12-advanced_gray_transform_hist_spec)
+- **三、频域图像增强**
+  - [实验四：频域图像滤波与傅里叶变换](数字图像处理/4-Frequency_Domain)
+  - [实验十三：同态滤波与照明反射模型实验](数字图像处理/13-homomorphic_filtering_illumination_reflection_experiment)
+- **四、图像复原与重建**
+  - [实验五：图像退化与复原](数字图像处理/5-Image_Restoration)
+  - [实验十四：图像重建基础——雷登变换与CT模拟](数字图像处理/14-Radon%20Transform)
+- **五、彩色图像处理**
+  - [实验八：彩色图像处理与伪彩色增强](数字图像处理/8-Color_Processing)
+- **六、小波与多分辨率**
+  - [实验十五：小波变换与多分辨率处理](数字图像处理/15-DWT)
+- **七、图像压缩与编码**
+  - [实验十六：基于 DCT 的图像编码与压缩](数字图像处理/16-DCT)
+- **八、形态学图像处理**
+  - [实验六：形态学图像处理](数字图像处理/6-Morphology)
+  - [实验十七：高级形态学——击中击不中与形态学重建](数字图像处理/17-Advanced_Morphology)
+- **九、图像分割**
+  - [实验七：图像边缘检测与阈值分割](数字图像处理/7-Edge_Segmentation)
+  - [实验十八：基于区域的图像分割与四叉树](数字图像处理/18-Region_Segmentation)
+- **十、表示、描述与识别**
+  - [实验九：图像特征提取与几何变换](数字图像处理/9-Feature_Extraction)
+  - [实验十九：图像表示与描述——傅里叶描述子](数字图像处理/19-Fourier_Descriptors)
+  - [实验二十：传统目标识别——最小距离分类器](数字图像处理/20-Minimum_Distance_Classifier)
+- **十一、综合实战应用**
+  - [实验十：综合应用实验 (文档扫描仪系统)](数字图像处理/10-Document_Scanner)
+
+---
