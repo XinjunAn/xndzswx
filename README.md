@@ -127,12 +127,22 @@
 
 ---
 
+<br/>
+<br/>
+<br/>
+
 # 🎨 数字图像处理 (Digital Image Processing)
 
 本板块包含 **20个** 经典的数字图像处理案例，涵盖从基础操作、空域/频域增强到形态学、分割与识别的完整内容。
 
 > [!IMPORTANT]
 > **仓库说明**：本仓库数据集很小，每个案例已经包含全部的数据集等文件。若requirements.txt发生版本冲突，删除掉后面的版本号重新安装或使用pip分别安装即可
+
+## 📚 案例一览图 (sheet)
+
+![image](/数字图像处理/sheet.png)
+
+## 📚 项目目录 (Project Index)
 
 - **一、数字图像基础**
   - [实验一：图像基本操作与颜色空间转换](数字图像处理/1-Basic%20Image%20Operations%20and%20Color%20Space%20Conversion)
