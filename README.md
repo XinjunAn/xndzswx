@@ -10,8 +10,6 @@
 > [!IMPORTANT]
 > **资源获取说明**：若单个案例缺少数据集、权重文件、 README 中的下载链接失效，请前往 **[人工智能导论网盘](https://pan.baidu.com/s/1nCdmYK8fgUEvc0H_tkXF5g?pwd=x8cc 提取码: x8cc)** 下载，并按照网盘中的目录结构保存在本地路径中。若本地目录与说明不一致，以网盘内的目录结构及文件为准。
 
----
-
 ### 🛠️ 案例构成
 
 每个案例项目通常包含以下核心部分：
@@ -20,8 +18,6 @@
 - **📓 程序.ipynb**：可直接运行的交互式 Jupyter Notebook 代码。
 - **📋 requirements.txt**：项目运行所需的 Python 环境依赖清单。
 - **📁 data/**：数据集文件夹。_（注意：部分超大文件或数据集需从网盘单独下载）_
-
----
 
 ### 🚀 快速开始
 
@@ -38,8 +34,6 @@
    pip install -r requirements.txt
    ```
 5. **执行案例**：在 VSCode 中切换至对应的内核（Kernel），即可分步运行单元格（Cell）。
-
----
 
 ## 📚 案例一览图 (sheet)
 
@@ -130,5 +124,7 @@
 
 - **推荐系统 (Recommendation System)**
   - 初级：[c20. 推荐：协同过滤+轻量MLP实现电影推荐](人工智能导论/primary/c20-tuijian)
+
+---
 
 # 🤖 数字图像处理
