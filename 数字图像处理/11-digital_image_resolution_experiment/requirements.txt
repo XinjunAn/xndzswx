@@ -1,0 +1,11 @@
+# 数字图像处理实验依赖
+# 安装命令: pip install -r requirements.txt
+
+numpy>=1.24,<3.0
+matplotlib>=3.7,<4.0
+
+# 可选：用于加载 skimage.data.camera() 测试图像
+scikit-image>=0.22,<1.0
+
+# 建议：用于在 VS Code / Jupyter 中作为内核运行
+ipykernel>=6.0

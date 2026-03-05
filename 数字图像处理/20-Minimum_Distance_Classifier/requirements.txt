@@ -1,0 +1,11 @@
+# OpenCV：视觉处理核心算法库 
+opencv-python>=4.5.0
+
+# NumPy：矩阵计算底层库 
+numpy>=1.20.0
+
+# Matplotlib：强大的绘图库 
+matplotlib>=3.3.0
+
+# Jupyter：交互式笔记本运行环境
+jupyter>=1.0.0

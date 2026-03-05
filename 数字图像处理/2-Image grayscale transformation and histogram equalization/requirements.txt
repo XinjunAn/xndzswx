@@ -1,0 +1,11 @@
+# OpenCV 图像处理核心库 (包含 cv2)
+opencv-python>=4.5.0
+
+# 矩阵计算基础库
+numpy>=1.20.0
+
+# 绘图与直方图可视化库
+matplotlib>=3.3.0
+
+# Jupyter 运行环境
+jupyter>=1.0.0
