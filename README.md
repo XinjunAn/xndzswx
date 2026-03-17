@@ -41,7 +41,6 @@
 ## 📚 项目目录 (Project Index)
 
 - **机器学习 (Machine Learning)**
-
   - **监督学习 (Supervised Learning)**
     - **二分类**
       - 初级：[c1. 鸢尾花品种二分类（逻辑回归）](人工智能导论/primary/c1-yuanweihua_erfenlei)
@@ -79,7 +78,6 @@
       - 进阶：[j12. CV：基于 CIFAR-10 数据集的 PCA 特征降维](人工智能导论/advanced/j12-jiangwei)
 
 - **深度学习 (Deep Learning)**
-
   - **卷积神经网络 (CNN)**
     - **LeNet**
       - 初级：[c13. LeNet 实现 MNIST 手写数字识别](人工智能导论/primary/c13-LeNet)
@@ -185,7 +183,50 @@
 <br/>
 <br/>
 <br/>
-# 🎨 离散数学
-PDF版本是大纲教案和课件
-corecode为QT C++版本
-02.Discreate Math是vscode下的python版本
+
+# 🤖 离散数学
+
+本板块包含离散数学相关的实验案例，按文件夹划分为 C++ 核心算法实现、Python 场景化应用以及配套的 PDF 教案。
+
+## 📚 离散数学知识图谱
+
+![image](/离散数学/离散数学的知识图谱.png)
+
+## 📚 项目目录 (Project Index)
+
+- **一、C++ 核心实现 (corecode)**
+  - [1. 真值表与命题逻辑](离散数学/corecode/1真值表与命题逻辑.cpp)
+  - [2. 逻辑推理验证](离散数学/corecode/2逻辑推理验证.cpp)
+  - [3. 集合运算](离散数学/corecode/3集合运算.cpp)
+  - [4. 自反闭包和对称](离散数学/corecode/4自反闭包和对称.cpp)
+  - [5. 二元关系闭包性能测试](离散数学/corecode/5二元关系闭包性能测试.cpp)
+  - [6. 代数系统性质检验](离散数学/corecode/6代数系统性质检验.cpp)
+
+- **二、Python 场景应用 (02.Discreate Math)**
+  - **1. 图论基础 (01.Graphics)**
+    - [G1. 哈密顿圈生成树 (Hamiltonian Cycle)](<离散数学/02.Discreate%20Math/01.Graphics/01.Create_Tree(Hamiltonian%20Cycle).py>)
+    - [G2. 最小生成树 MST 应用](离散数学/02.Discreate%20Math/01.Graphics/02.MST_application.py)
+    - [G3. 欧拉路 EULA 应用](离散数学/02.Discreate%20Math/01.Graphics/03.EULA_application.py)
+    - [G4. 干涉图分析 (Interference Graph)](离散数学/02.Discreate%20Math/01.Graphics/04.Interference%20Graph.py)
+  - **2. 逻辑分析 (02.Logical)**
+    - [L1. 网络逻辑分析 (Network Logic)](离散数学/02.Discreate%20Math/02.Logical/01.Network_Logic.py)
+    - [L2. 软件规格说明逻辑研究](离散数学/02.Discreate%20Math/02.Logical/02.Software.py)
+    - [L3. 对偶原理应用 (Duality)](离散数学/02.Discreate%20Math/02.Logical/03.duality.py)
+    - [L4. 隐式应用逻辑 (ImplicitApp)](离散数学/02.Discreate%20Math/02.Logical/04.ImplicitApp.py)
+    - [L5. 一元谓词逻辑 (Unary Predicate)](离散数学/02.Discreate%20Math/02.Logical/05.Unary_Predicate_Logic.py)
+  - **3. 半群研究 (04.Semi-Group)**
+    - [S1. 半群性质实战 (semiGroup)](离散数学/02.Discreate%20Math/04.Semi-Group/01.semiGroup.py)
+    - [S2. 代数系统扩展实验](离散数学/02.Discreate%20Math/04.Semi-Group/02.py)
+
+- **三、教案与辅助材料 (PDF版)**
+  - [离散数学大纲 - 40学时](离散数学/PDF版/00.离散数学-大纲（40学时）.docx)
+  - [离散数学教案 (New) - 40学时](离散数学/PDF版/01.离散数学40学时教案new.docx)
+  - [实验指导书](离散数学/PDF版/实验指导书.pdf)
+  - [课件 01：命题逻辑 (8学时)](离散数学/PDF版/离散数学01-命题逻辑（8学时）.pdf)
+  - [课件 02：谓词逻辑 (6学时)](离散数学/PDF版/离散数学02-谓词逻辑（6学时）.pdf)
+  - [课件 03：集合与关系 (8学时)](离散数学/PDF版/离散数学03-集合与关系（8学时）.pdf)
+  - [课件 04：函数 (2学时)](离散数学/PDF版/离散数学04-函数（2学时）.pdf)
+  - [课件 05：代数系统 1 (6学时)](离散数学/PDF版/离散数学05-代数系统（6学时）.pdf)
+  - [课件 05：代数系统 2 (2学时)](离散数学/PDF版/离散数学05-代数系统2（2学时）.pdf)
+  - [课件 07：图论基础 (4学时)](离散数学/PDF版/离散数学07-图论基础（4学时）.pdf)
+  - [配套案例：图论和逻辑部分](离散数学/PDF版/离散数学中的案例应用-图论和逻辑部分.docx)
